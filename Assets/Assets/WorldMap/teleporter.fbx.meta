@@ -1,0 +1,91 @@
+fileFormatVersion: 2
+guid: 7b33e78a8a5e15e469fafd1ccee9bd38
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cylinder_000
+    100004: Plane
+    100006: RenderPlatform
+    100008: RuneGlow
+    100010: RuneOff
+    100012: Spot
+    100014: Sun
+    100016: Sun_001
+    100018: Sun_002
+    100020: //RootNode
+    400000: Camera
+    400002: Cylinder_000
+    400004: Plane
+    400006: RenderPlatform
+    400008: RuneGlow
+    400010: RuneOff
+    400012: Spot
+    400014: Sun
+    400016: Sun_001
+    400018: Sun_002
+    400020: //RootNode
+    2300000: Cylinder_000
+    2300002: Plane
+    2300004: RuneGlow
+    2300006: RuneOff
+    3300000: Cylinder_000
+    3300002: Plane
+    3300004: RuneGlow
+    3300006: RuneOff
+    4300000: RuneGlow
+    4300002: RuneOff
+    4300004: Plane
+    4300006: Cylinder_000
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

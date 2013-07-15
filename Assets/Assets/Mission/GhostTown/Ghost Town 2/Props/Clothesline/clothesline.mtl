@@ -1,0 +1,25 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.26
+# URL: http://www.unwrap3d.com
+# Time: Thu Mar 31 20:01:43 2011
+# num_materials: 2
+
+newmtl clothesline
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 0.007813
+map_Kd clothesline.dds
+
+newmtl ShantyTextureE
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 0.007813
+map_Kd ShantyTextureE.dds
+
+# num_materials: 2

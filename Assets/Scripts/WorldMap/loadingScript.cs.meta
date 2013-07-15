@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3ee9407d3b2ee486b9c97200378be1db
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - texture: {fileID: 2800000, guid: 9e1fcdfea7c7047f494dd98bd38763e6, type: 3}
+  - progressBarEmpty: {fileID: 2800000, guid: 8a3d8fe53efc9b84b824274146436a8f, type: 3}
+  - progressBarFull: {fileID: 2800000, guid: 6ef3bb73c0c13d342871360f149b681c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

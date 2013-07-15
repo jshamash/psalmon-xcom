@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 62841d16b90eed747a33fa9c2f8987ea
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - soldierPrefab: {instanceID: 0}
+  - seekingSpherePrefab: {instanceID: 0}
+  - middleAlignment: {instanceID: 0}
+  - invisiBox: {instanceID: 0}
+  - soldierPortrait: {instanceID: 0}
+  - healthBarFull: {instanceID: 0}
+  - energyBarFull: {instanceID: 0}
+  - emptyBar: {instanceID: 0}
+  - weaponImage: {instanceID: 0}
+  - optionFrameSkin: {instanceID: 0}
+  - optionTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

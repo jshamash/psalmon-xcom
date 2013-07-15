@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f63e675fe3b6b9646beb49d9dd3e30ba
+labels:
+- Stone
+- Fence
+- Wall
+- Post
+- Pillar
+NativeFormatImporter:
+  userData: 

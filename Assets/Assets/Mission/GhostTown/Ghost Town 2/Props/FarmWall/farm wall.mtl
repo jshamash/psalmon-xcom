@@ -1,0 +1,25 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.26
+# URL: http://www.unwrap3d.com
+# Time: Thu Mar 31 20:04:23 2011
+# num_materials: 2
+
+newmtl ShantyTextureB
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.200000 0.200000
+Ks 0.200000 0.200000 0.200000
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd ShantyTextureB.dds
+
+newmtl ShantyTextureM
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.200000 0.200000
+Ks 0.200000 0.200000 0.200000
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd ShantyTextureM.dds
+
+# num_materials: 2

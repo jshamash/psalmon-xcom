@@ -1,0 +1,6 @@
+//Profi developers 2012 v1.4
+//Building Shed
+//Key words: Art Environment Architecture Urban Industrial 3d Model Building Shed Free Profi Developers
+- Photorealistic textured low-poly model of building shed. Actual size of model is 4x2,2x2,36m. Detail and quality texture alow use model in FPS games. Model is high optimized and use one material so it will by rendered on one drawcall. Model has 1128 faces and 817 verts + one material with PSD difus+specular texture 1024x2048 and normal map in grayscale 1024x2048 JPG.
+- The model has prepared two mapping coordinates. One for the diffuse map and second for the custom light map (so uw strips dosen´t overlap). Coordinates were made manually for best quality.
+- The textures are imported at 512x1024 to speed up the import process, but the original files are 1024x2048 and can be re-imported at that size for higher quality.

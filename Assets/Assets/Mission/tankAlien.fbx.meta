@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 0e3b4d50c9aa220498098ad73ed96875
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_001_L
+    100008: Bone_001_L_001
+    100010: Bone_001_L_002
+    100012: Bone_001_L_003
+    100014: Bone_001_L_004
+    100016: Bone_001_L_005
+    100018: Bone_001_L_006
+    100020: Bone_001_L_007
+    100022: Bone_001_R
+    100024: Bone_001_R_001
+    100026: Bone_001_R_002
+    100028: Bone_001_R_003
+    100030: Bone_001_R_004
+    100032: Bone_001_R_005
+    100034: Bone_001_R_006
+    100036: Bone_001_R_007
+    100038: Bone_002
+    100040: Bone_003
+    100042: Bone_004
+    100044: Bone_L
+    100046: Bone_L_001
+    100048: Bone_L_002
+    100050: Bone_L_003
+    100052: Bone_R
+    100054: Bone_R_001
+    100056: Bone_R_002
+    100058: Bone_R_003
+    100060: Camera
+    100062: Lamp
+    100064: Lamp_001
+    100066: Mesh_001
+    100068: Plane
+    100070: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_001_L
+    400008: Bone_001_L_001
+    400010: Bone_001_L_002
+    400012: Bone_001_L_003
+    400014: Bone_001_L_004
+    400016: Bone_001_L_005
+    400018: Bone_001_L_006
+    400020: Bone_001_L_007
+    400022: Bone_001_R
+    400024: Bone_001_R_001
+    400026: Bone_001_R_002
+    400028: Bone_001_R_003
+    400030: Bone_001_R_004
+    400032: Bone_001_R_005
+    400034: Bone_001_R_006
+    400036: Bone_001_R_007
+    400038: Bone_002
+    400040: Bone_003
+    400042: Bone_004
+    400044: Bone_L
+    400046: Bone_L_001
+    400048: Bone_L_002
+    400050: Bone_L_003
+    400052: Bone_R
+    400054: Bone_R_001
+    400056: Bone_R_002
+    400058: Bone_R_003
+    400060: Camera
+    400062: Lamp
+    400064: Lamp_001
+    400066: Mesh_001
+    400068: Plane
+    400070: //RootNode
+    2300000: Plane
+    3300000: Plane
+    4300000: Plane
+    4300002: Mesh_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Mesh_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

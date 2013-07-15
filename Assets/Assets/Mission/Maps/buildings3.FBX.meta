@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 811c4b09f332ab8469f368890d0f9a19
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: alpha
+    100002: alphas
+    100004: bridge_a
+    100006: building_c
+    100008: building_c01
+    100010: building_c1
+    100012: building_e
+    100014: //RootNode
+    100016: concrete
+    100018: facade_a
+    100020: facade_a01
+    100022: facade_a02
+    100024: iron_column_b
+    100026: iron_stair_a
+    100028: metal
+    100030: metal 1
+    100032: metal 2
+    100034: metal 3
+    100036: metal 4
+    100038: metal01
+    100040: metalerer02
+    100042: mixed
+    100044: Object02
+    100046: old_roof_b
+    100048: short_wall_small
+    100050: sill_small
+    100052: sill_small01
+    400000: alpha
+    400002: alphas
+    400004: bridge_a
+    400006: building_c
+    400008: building_c01
+    400010: building_c1
+    400012: building_e
+    400014: //RootNode
+    400016: concrete
+    400018: facade_a
+    400020: facade_a01
+    400022: facade_a02
+    400024: iron_column_b
+    400026: iron_stair_a
+    400028: metal
+    400030: metal 1
+    400032: metal 2
+    400034: metal 3
+    400036: metal 4
+    400038: metal01
+    400040: metalerer02
+    400042: mixed
+    400044: Object02
+    400046: old_roof_b
+    400048: short_wall_small
+    400050: sill_small
+    400052: sill_small01
+    2300000: alpha
+    2300002: alphas
+    2300004: concrete
+    2300006: metal
+    2300008: metal 1
+    2300010: metal 2
+    2300012: metal 3
+    2300014: metal 4
+    2300016: metal01
+    2300018: mixed
+    3300000: alpha
+    3300002: alphas
+    3300004: concrete
+    3300006: metal
+    3300008: metal 1
+    3300010: metal 2
+    3300012: metal 3
+    3300014: metal 4
+    3300016: metal01
+    3300018: mixed
+    4300000: metal
+    4300002: alpha
+    4300004: concrete
+    4300006: mixed
+    4300008: metal01
+    4300010: alphas
+    4300012: metal
+    4300014: metal
+    4300016: metal
+    4300018: metal
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

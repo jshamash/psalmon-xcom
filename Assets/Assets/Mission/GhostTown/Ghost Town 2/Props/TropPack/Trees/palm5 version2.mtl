@@ -1,0 +1,26 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.28
+# URL: http://www.unwrap3d.com
+# Time: Wed Mar 30 17:51:20 2011
+# num_materials: 2
+
+newmtl palm5
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 0.007813
+map_Kd palm5.dds
+map_d palm5.dds
+
+newmtl palm5_bark
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 0.007813
+map_Kd palm_barkNEW.dds
+
+# num_materials: 2

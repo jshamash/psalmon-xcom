@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83e7ae45ae2485440b748554a4bc8d8a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Loading_Screen: {fileID: 2800000, guid: 207b9f9349c44a146885f367c2eb429f, type: 3}
+  - NorthAmerica: {instanceID: 0}
+  - SouthAmerica: {instanceID: 0}
+  - Africa: {instanceID: 0}
+  - Europe: {instanceID: 0}
+  - Asia: {instanceID: 0}
+  - Australia: {instanceID: 0}
+  - playSkin: {instanceID: 0}
+  - fastSkin: {instanceID: 0}
+  - pauseSkin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
